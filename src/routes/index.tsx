@@ -19,9 +19,9 @@ const VIDEOS: { id: string; title: string; description: string }[] = [
     description: "100% custom, 100% done by me. This displays the full flow of building a car to driving through the map.",
   },
   {
-    id: "dQw4w9WgXcQ",
-    title: "Build A Plane systems breakdown",
-    description: "How the modular part snapping and flight model fit together.",
+    id: "WDoD8I56C7M",
+    title: "Flight System",
+    description: "A recent commission I did involving custom movement, vector forces, assembly velocities, and some complex math.",
   },
   {
     id: "dQw4w9WgXcQ",
