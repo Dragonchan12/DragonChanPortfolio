@@ -23,11 +23,6 @@ const VIDEOS: { id: string; title: string; description: string }[] = [
     title: "Flight System",
     description: "A recent commission I did involving custom movement, vector forces, assembly velocities, and some complex math.",
   },
-  {
-    id: "dQw4w9WgXcQ",
-    title: "Anticheat deep dive",
-    description: "Server authority, replication checks and catching exploiters.",
-  },
 ];
 
 // Add, edit or remove testimonials here. Each one renders as a card.
